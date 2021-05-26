@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on side projects 
+- 🌱 I’m currently learning Flutter 
+- 👯 I’m open on project collaboration
+- 🤔 I’m looking for help with Javascript on occasion
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bill-shema-64aa69142/)
+- ⚡ Fun fact: I never formally learnt Python
 
 
 <!--
@@ -18,13 +24,14 @@ Here are some ideas to get you started:
         "1": "C/C++",
         "2": "Python",
         "3": "Java",
-        "4":"CSS"
+        "4": "JavaScript",
+        "5":"CSS",
       }
     ],
     "Scripting-Languages": [
       {
         "1": "HTML",
-        "2": "Python"
+        "2": "Python",
       }
     ],
     "OS": [
@@ -53,15 +60,9 @@ Here are some ideas to get you started:
   }
 }
 ```
-- 🔭 I’m currently working on side projects 
-- 🌱 I’m currently learning Flutter 
-- 👯 I’m open on project collaboration
-- 🤔 I’m looking for help with Javascript on occasion
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bill-shema-64aa69142/)
-- ⚡ Fun fact: I never formally learnt Python
 
 ## My GitHub Stats
-> Based my public repos
+> Based on my public repos
 
 [![Bill's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohack11)](https://github.com/nohack11/github-readme-stats)
 
