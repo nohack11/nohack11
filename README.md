@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on side projects 
-- 🌱 I’m currently learning Flutter 
+- 🔭 I’m currently working on side projects
 - 👯 I’m open on project collaboration
-- 🤔 I’m looking for help with Javascript on occasion
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bill-shema-64aa69142/)
-- ⚡ Fun fact: I never formally learnt Python
+- ⚡ Fun fact: I never "formally" learnt Python
 
 
 <!--
